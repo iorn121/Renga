@@ -39,3 +39,5 @@ Werkzeug==2.2.2
 zope.interface==5.4.0
 
 # https://channels.readthedocs.io/en/stable/introduction.html
+# https://channels.readthedocs.io/en/stable/tutorial/part_2.htmlで詰まった
+# https://noauto-nolife.com/post/startup-django-channels-web-socket/
